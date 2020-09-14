@@ -1,0 +1,1 @@
+start /d "H:\Users\Standard User\Documents\Coding\VBS\cmd\WiFi-wired_switch" cmd.exe
